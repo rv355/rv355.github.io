@@ -153,6 +153,7 @@ a.hs-totop-link {
     display: inline-block;
     color: #606777;
     font-size: 12px;
+    font-weight: bold;
     font-family: Montserrat;
     position: relative;
 }
