@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>CrowdMap - Experiments</title>
+<link rel="icon" href="images/favicon.gif" type="image/x-icon"/>
+ <!--[if lt IE 9]>
+ <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+<link rel="shortcut icon" href="images/favicon.gif" type="image/x-icon"/> 
+<link rel="stylesheet" type="text/css" href="css/styles.css"/>
+</head>
+<body>
+   <div class="bg">
+    <!--start container-->
+    <div id="container">
+    <!--start header-->
+    <header>
+      <!--start logo-->
+      <a href="#" id="logo"><h1>CrowdMap</h1></a>
+      <!--end logo-->
+      <!--start menu-->
+  	   <nav>
+         <ul>
+          <li><a href="index.html" class="current">Home</a></li>
+	      <li><a href="about.html">About</a></li>
+	   	  <li><a href="results.html">Experiments</a></li>
+	      <li><a href="links.html">Links</a></li>
+	      <!--li><a href="form.html">Forms</a></li-->
+	      <li><a href="discussion.html">Discussion</a></li>
+	      <li><a href="contacts.html">Contact</a></li>	   
+         </ul>
+      </nav>
+  	   <!--end menu-->
+      <!--end header-->
+	</header>
+	<div class="holder_content">
+	<p>
+		We conducted experiments for a period of three months in the cities of Kolkata (KOL), Bhubaneswar (BBS) and Durgapur (DGP), three cities in the eastern part of India. While KOL and BBS are two state capitals with areas 1887 sqkm and 422 sqkm respectively, DGP is a suburban city with area 154 sqkm.
+	</p>	
+	<p>
+		The application was distributed amongst 30 users. The first month of the experiments involved logging the complete GPS information of these users, so that we can later use this information as ground truth. Also, they were asked to tag the mode of transport they were using and the landmarks encountered. The devices ranged from low-end Android devices to high-end ones. The Android versions ranged from JellyBean to Marshmallow. We conducted the experiments in 11 different routes of the above-mentioned cities and collected more than 200 trails.
+	</p>
+	<br>
+	<center>
+      <figure>
+        <img src="images/tag.png" width="600" height="300" alt="crowd"/>
+        <figcaption>Tag cloud of devices and android versions</figcaption>
+      </figure>
+    </center>
+    <br>
+    <center>
+      <figure>
+        <img src="images/citytable.png" width="1000" height="200" alt="crowd"/>
+        <figcaption>Route details (N : Route name – city in brackets, L: Route length, T : Daily avg. travel duration)</figcaption>
+      </figure>
+    </center>
+    <br>
+    <p>
+    	In a nutshell, we have designed a low-cost solution that can provide useful information regarding road and route condition to users commuting in public transport in regions lacking Google transit information. We have implemented an Android based application as well as a web-interface to provide CrowdMap service to the commuters. With a 3-month study involving more than 30 users in 6 different bus-routes of 3 different cities, we observe that CrowdMap can detect landmarks with an average accuracy of 95% and embeds the route segments on real map with an maximum error of 5 meters. It can also accurately characterize the bus route characteristics like average speed, speed before landmark and jerkiness etc. To the best of our knowledge, this study is a first step towards developing a public transport recommender system based on users preference
+    </p>
+	</div>
+   
+</html>

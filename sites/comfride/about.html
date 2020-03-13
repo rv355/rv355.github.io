@@ -1,0 +1,123 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>ComfRide - About</title>
+<link rel="icon" href="images/favicon.gif" type="image/x-icon"/>
+ <!--[if lt IE 9]>
+ <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+<link rel="shortcut icon" href="images/favicon.gif" type="image/x-icon"/> 
+<link rel="stylesheet" type="text/css" href="css/styles.css"/>
+</head>
+<body>
+   <div class="bg">
+    <!--start container-->
+    <div id="container">
+    <!--start header-->
+    <header>
+      <!--start logo-->
+      <a href="#" id="logo"><h1>ComfRide</h1></a>
+      <!--end logo-->
+      <!--start menu-->
+  	   <nav>
+         <ul>
+         <li><a href="index.html" class="current">Home</a></li>
+         <li><a href="about.html">About</a></li>
+       	 <li><a href="results.html">Results</a></li>
+         <li><a href="links.html">Links</a></li>
+         <!-- <li><a href="form.html">Forms</a></li> -->
+         <!-- <li><a href="demo.html">Demo</a></li> -->
+		 <li><a href="contact.html">Contact</a></li>
+         </ul>
+      </nav>
+  	   <!--end menu-->
+      <!--end header-->
+	</header>
+	<div class="holder_content">
+		<h3>Commuter Survey</h3>
+		<p>
+			We have conducted a large scale online survey involving more than
+			300 participants across the globe, who mostly access the public
+			transport system. Responses were obtained from different developed
+			and developing countries including Italy, UK, Netherlands,
+			Norway, Germany, France, USA, India, Nepal, Iran, Pakistan, Sri
+			Lanka and Vietnam. Around 25% participants are female and are
+			aged between 20 to 65 years. In our survey, we design the questionnaire
+			to assess factors like total travel time, traffic congestion, sitting
+			probability, road condition, bus type (AC or non-AC buses), number
+			of stops, break journey, which reflect factors regulating commuter
+			comfort and their interplay for a comfortable journey.
+		</p>
+	<center>
+		<figure>
+			<img src="images/motivational_survey3.PNG" width="550" height="300" alt="survey"/>
+			<figcaption><b>Online Survey Responses</b> (a) Delay due in reaching, (b)
+			Type of Bus, (c) Travel without seat, (d) Compromise Travel Time
+			to get a seat, (e) Travel on bad roads, (f) Compromise Travel Time
+			for better road, (g) Stuck in Traffic, (h) Compromise Travel Time for
+			less congested route (time units are in minutes)</figcaption>
+		</figure>
+	</center>
+	<br>
+	<p>In a nutshell, this survey reveals that there exist multiple parameters
+		(Figure 3), viz., speed of the bus, congestion, probability of
+		getting a seat, etc, which impact commuters’ comfort during the
+		trip, and individuals differ widely in their perception of comfort
+		primarily depending on their age and gender. Moreover, the trend
+		is quite similar all over the world</p>
+	<p>
+		ComfRide captures diverse
+		features through smartphones, which impact the commuter’s
+		comfort level while using public transport and develops a personalized
+		route recommender employing the fuzzy set theory along with
+		TOPSIS approach, which considers individual comfort level
+		based on spatio-temporal road and route characteristics. Besides
+		this diverse and wide suite of factors across various possible routes,
+		single or multiple breakpoints in the journey is also considered, if
+		that increases comfort.
+	</p>
+	<p>
+		In order to capture the spatio-temporal dynamics over a wide
+		choice of features, we design the route recommendation algorithm
+		using a specialized compositional model, called Dynamic Input/Output
+		Automata (DIOA). The DIOA ensures that the system is not
+		overwhelmed with the huge amount of data to be processed thus reducing
+		the load on the system. Effectively, ComfRide utilizes DIOA
+		based compositional model to identify the most preferable route
+		efficiently based on the historical information and the context of
+		the query. Moreover, the DIOA also provides a mechanism to dynamically
+		modify the model to suit the personalized preference
+		of a commuter on obtaining a feedback from her after a trip, thus
+		improving the quality of recommendation after every trip.
+	</p>
+   </div>
+
+   <div class="holder_content">
+		<h3>System Description</h3>
+	<center>
+		<figure>
+			<img src="images/system.png" width="550" height="400" alt="arch"/>
+			<figcaption><b>ComfRide System Architecture</b></figcaption>
+		</figure>
+	</center>
+	<br>
+	<p>
+		The overall system can be divided into two broad modules (Figure 5)
+		– (a) the client module (the smartphone app) which runs the client
+		automaton and (b) the server module (runs over a remote server)
+		that runs the server automaton with various filters as internal
+		signatures. Additionally, ComfRide uses a database to store the
+		historical information that are used by the server module to apply
+		various filters using the internal signatures.
+	</p>
+	<br>
+	<center>
+			<figure>
+				<img src="images/ui.png" width="500" height="350" alt="ui"/>
+				<figcaption><b>ComfRide User Interface</b> (a) Provide the source, destination, time constraint and break limit, (b) Order the features as per preference (d) Recommended route in red</figcaption>
+			</figure>
+		</center>
+   </div>
+   
+</html>

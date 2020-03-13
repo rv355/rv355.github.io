@@ -1,0 +1,451 @@
+<article class="hs-content team-section" id="section4">
+                    <span class="sec-icon fa fa-users"></span>
+                    <div class="hs-inner">
+                        <span class="before-title">.04</span>
+                        <h2>PROCESS &amp; TEAM</h2>
+                        <span class="content-title">OUR PROCESS</span>
+                        <div class="proceess_wrap">
+                            <div id="ourprocess">
+                                <ul id="progressbar">
+                                    <li class="active">IDEA</li>
+                                    <li>IMPLEMENT</li>
+                                    <li>REVIEW</li>
+                                    <li>DELIVER</li>
+                                </ul>
+                                <div class="process-container">
+                                    <div class="proceess">
+                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscingVivam sit amet ligula non lectus cursus egestas. Cras erat lorem, fringilla quis sagittis in, sagittis inNam leo tortor Nam leo tortor Vivam fringilla quis sagittis in, sagittis inNam leo tortor Nam leo tortor Vivam</p>
+
+                                        <input type="button" name="next" class="next action-button" value="NEXT STEP" />
+                                    </div>
+                                    <div class="proceess">
+                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscingVivam sit amet ligula non lectus cursus egestas. Cras erat lorem, fringilla quis sagittis in, sagittis inNam leo tortor Nam leo tortor Vivam fringilla quis sagittis in, sagittis inNam leo tortor Nam leo tortor Vivam</p>
+
+                                        <input type="button" name="previous" class="previous action-button" value="PREVIOUS STEP" />
+                                        <input type="button" name="next" class="next action-button" value="NEXT STEP" />
+                                    </div>
+                                    <div class="proceess">
+                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscingVivam sit amet ligula non lectus cursus egestas. Cras erat lorem, fringilla quis sagittis in, sagittis inNam leo tortor Nam leo tortor Vivam fringilla quis sagittis in, sagittis inNam leo tortor Nam leo tortor Vivam</p>
+
+                                        <input type="button" name="previous" class="previous action-button" value="PREVIOUS STEP" />
+                                        <input type="button" name="next" class="next action-button" value="NEXT STEP" />
+                                    </div>
+                                    <div class="proceess">
+                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscingVivam sit amet ligula non lectus cursus egestas. Cras erat lorem, fringilla quis sagittis in, sagittis inNam leo tortor Nam leo tortor Vivam fringilla quis sagittis in, sagittis inNam leo tortor Nam leo tortor Vivam</p>
+
+                                        <input type="button" name="previous" class="previous action-button" value="PREVIOUS STEP" />
+                                    </div>
+                                    <div style="clear:both;"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <span class="content-title">OUR TEAM</span>
+                        <div class="team_wrapper">
+                            <div class="team-card-container">
+                                <div class="card">
+                                    <div class="front team1">
+                                        <div class="front-detail">
+                                            <h4>JOHN DOE</h4>
+                                            <h3>WEB DESIGNER</h3>
+                                        </div>
+                                    </div>
+                                    <div class="back">
+                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscingVivam sit amet ligula non lectus cursus egestas. Cras erat lorem, fringilla quis sagittis in, sagittis inNam leo tortor Nam leo tortor Vivam.</p>
+                                        <div class="social-icons">
+                                            <a href="#"><i class="fa fa-facebook"></i></a>
+                                            <a href="#"><i class="fa fa-twitter"></i></a>
+                                            <a href="#"><i class="fa fa-linkedin"></i></a>
+                                            <a href="#"><i class="fa fa fa-dribbble"></i></a>
+                                            <a href="#"><i class="fa fa fa-github"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="team-card-container">
+                                <div class="card">
+                                    <div class="front team2">
+                                        <div class="front-detail">
+                                            <h4>JENNIFER DOE</h4>
+                                            <h3>WEB DEVELOPER</h3>
+                                        </div>
+                                    </div>
+                                    <div class="back">
+                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscingVivam sit amet ligula non lectus cursus egestas. Cras erat lorem, fringilla quis sagittis in, sagittis inNam leo tortor Nam leo tortor Vivam.</p>
+                                        <div class="social-icons">
+                                            <a href="#"><i class="fa fa-facebook"></i></a>
+                                            <a href="#"><i class="fa fa-twitter"></i></a>
+                                            <a href="#"><i class="fa fa-linkedin"></i></a>
+                                            <a href="#"><i class="fa fa fa-dribbble"></i></a>
+                                            <a href="#"><i class="fa fa fa-github"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="team-card-container">
+                                <div class="card">
+                                    <div class="front team3">
+                                        <div class="front-detail">
+                                            <h4>JOHNATAN DOE</h4>
+                                            <h3>WEB DESIGNER</h3>
+                                        </div>
+                                    </div>
+                                    <div class="back">
+                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscingVivam sit amet ligula non lectus cursus egestas. Cras erat lorem, fringilla quis sagittis in, sagittis inNam leo tortor Nam leo tortor Vivam.</p>
+                                        <div class="social-icons">
+                                            <a href="#"><i class="fa fa-facebook"></i></a>
+                                            <a href="#"><i class="fa fa-twitter"></i></a>
+                                            <a href="#"><i class="fa fa-linkedin"></i></a>
+                                            <a href="#"><i class="fa fa fa-dribbble"></i></a>
+                                            <a href="#"><i class="fa fa fa-github"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="team-card-container">
+                                <div class="card">
+                                    <div class="front team4">
+                                        <div class="front-detail">
+                                            <h4>CATHERINE DOE</h4>
+                                            <h3>WEB DEVELOPER</h3>
+                                        </div>
+                                    </div>
+                                    <!--end front panel-->
+                                    <div class="back">
+                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscingVivam sit amet ligula non lectus cursus egestas. Cras erat lorem, fringilla quis sagittis in, sagittis inNam leo tortor Nam leo tortor Vivam.</p>
+                                        <div class="social-icons">
+                                            <a href="#"><i class="fa fa-facebook"></i></a>
+                                            <a href="#"><i class="fa fa-twitter"></i></a>
+                                            <a href="#"><i class="fa fa-linkedin"></i></a>
+                                            <a href="#"><i class="fa fa fa-dribbble"></i></a>
+                                            <a href="#"><i class="fa fa fa-github"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </article>
+                <!-- End Team/ process Section -->
+
+                <!-- pricing Section -->
+                <article class="hs-content pricing-section" id="section5">
+                    <span class="sec-icon fa fa-money"></span>
+                    <div class="hs-inner">
+                        <span class="before-title">.05</span>
+                        <h2>PRICING</h2>
+                        <span class="content-title">OUR PRICE</span>
+                        <div class="pricing-table-wrapper">
+
+                            <div class="pricing-table pricing-monthly">
+                                <div class="pricing-table-header">
+                                    <h1>Unlimited <strong>Monthly</strong></h1>
+                                    <h3><strong>Only $34.00</strong> / month</h3>
+                                </div>
+                                <div class="pricing-table-content">
+                                    <ul class="pricing-details">
+                                        <li class="pricing-list">Get Unlimited Downloads!</li>
+                                        <li class="pricing-list">No Download Caps</li>
+                                        <li class="pricing-list">All 100% Royalty Free</li>
+                                        <li class="pricing-list">No Contract / Cancel Anytime</li>
+                                        <li class="pricing-list">Unbeatable Customer Support</li>
+                                        <li class="pricing-list">20 - 30 New Uploads Monthly</li>
+                                    </ul>
+                                    <button class="signup" href="#">Choose This Plan</button>
+                                </div>
+                            </div>
+                            <div class="pricing-table pricing-half-yearly">
+                                <div class="pricing-table-header">
+                                    <h1>Unlimited <strong>Half Yearly</strong></h1>
+                                    <h3><strong>Only $79.00</strong> / 6 months</h3>
+                                </div>
+                                <div class="pricing-table-content">
+                                    <ul class="pricing-details">
+                                        <li class="pricing-list">Get Unlimited Downloads!</li>
+                                        <li class="pricing-list">No Download Caps</li>
+                                        <li class="pricing-list">All 100% Royalty Free</li>
+                                        <li class="pricing-list">No Contract / Cancel Anytime</li>
+                                        <li class="pricing-list">Unbeatable Customer Support</li>
+                                        <li class="pricing-list">20 - 30 New Uploads Monthly</li>
+                                    </ul>
+                                    <button class="signup" href="#">Choose This PlaN</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </article>
+                <!-- End pricing Section -->
+
+                <!-- Skills Section -->
+                <article class="hs-content skills-section" id="section6">
+                    <span class="sec-icon fa fa-diamond"></span>
+                    <div class="hs-inner">
+                        <span class="before-title">.06</span>
+                        <h2>SKILLS</h2>
+                        <span class="content-title">PROGRAMMING SKIILLS</span>
+                        <div class="skolls">
+                            <span class="skill-description">Lorem ipsum dolor sit amet, consectetur adipiscingVivam sit amet ligula non lectus cursus egestas. Cras erat lorem, fringilla quis sagittis in, sagittis inNam leo tortor Nam leo tortor Vivam.</span>
+                            <div class="bar-main-container">
+                                <div class="wrap">
+                                    <div class="bar-percentage" data-percentage="60"></div>
+                                    <span class="skill-detail"><i class="fa fa-bar-chart"></i>LEVEL : INTERMEDIATE</span><span class="skill-detail"><i class="fa fa-binoculars"></i>EXPERIENCE : 3 YEARS</span>
+                                    <div class="bar-container">
+                                        <div class="bar"></div>
+                                    </div>
+                                    <span class="label">Php</span><span class="label">Asp</span><span class="label">Wordpress</span>
+                                    <div style="clear:both;"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <span class="content-title">DESIGN SKILLS</span>
+                        <div class="skolls">
+
+                            <span class="skill-description">Lorem ipsum dolor sit amet, consectetur adipiscingVivam sit amet ligula non lectus cursus egestas. Cras erat lorem, fringilla quis sagittis in, sagittis inNam leo tortor Nam leo tortor Vivam.</span>
+                            <div class="bar-main-container">
+                                <div class="wrap">
+                                    <div class="bar-percentage" data-percentage="80"></div>
+                                    <span class="skill-detail"><i class="fa fa-bar-chart"></i>LEVEL : INTERMEDIATE</span><span class="skill-detail"><i class="fa fa-binoculars"></i>EXPERIENCE : 4 YEARS</span>
+                                    <div class="bar-container">
+                                        <div class="bar"></div>
+                                    </div>
+                                    <span class="label">Photoshop</span><span class="label">Illustrator</span>
+                                    <div style="clear:both;"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <span class="content-title">OFFICE SKILLS</span>
+                        <div class="skolls">
+                            <span class="skill-description">Lorem ipsum dolor sit amet, consectetur adipiscingVivam sit amet ligula non lectus cursus egestas. Cras erat lorem, fringilla quis sagittis in, sagittis inNam leo tortor Nam leo tortor Vivam.</span>
+                            <div class="bar-main-container">
+                                <div class="wrap">
+                                    <div class="bar-percentage" data-percentage="40"></div>
+                                    <span class="skill-detail"><i class="fa fa-bar-chart"></i>LEVEL : ADVANCED</span><span class="skill-detail"><i class="fa fa-binoculars"></i>EXPERIENCE : 5 YEARS</span>
+                                    <div class="bar-container">
+                                        <div class="bar"></div>
+                                    </div>
+                                    <span class="label">Ms excel</span><span class="label">Ms word</span><span class="label">Ms powerpoint</span>
+                                    <div style="clear:both;"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <span class="content-title">SOCIAL SKILLS</span>
+                        <div class="skolls">
+                            <span class="skill-description">Lorem ipsum dolor sit amet, consectetur adipiscingVivam sit amet ligula non lectus cursus egestas. Cras erat lorem, fringilla quis sagittis in, sagittis inNam leo tortor Nam leo tortor Vivam.</span>
+                            <div class="bar-main-container">
+                                <div class="wrap">
+                                    <div class="bar-percentage" data-percentage="90"></div>
+                                    <span class="skill-detail"><i class="fa fa-bar-chart"></i>LEVEL : EXPERT</span><span class="skill-detail"><i class="fa fa-binoculars"></i>EXPERIENCE : 6 YEARS</span>
+                                    <div class="bar-container">
+                                        <div class="bar"></div>
+                                    </div>
+                                    <span class="label">Event production</span><span class="label">Media relation</span>
+                                    <div style="clear:both;"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </article>
+                <!-- End Skills Section -->
+
+                <!-- Works Section -->
+                <article class="hs-content works-section" id="section7">
+                    <span class="sec-icon fa fa-archive"></span>
+                    <div class="hs-inner">
+                        <span class="before-title">.07</span>
+                        <h2>WORKS</h2>
+                        <div class="portfolio">
+                            <!-- Portfolio Item -->
+                            <figure class="effect-milo">
+                                <img src="images/portfolio/1-thumb.jpg" alt="img11" width="282" height="222" />
+                                <figcaption>
+                                    <span class="label">Logo Design</span>
+                                    <div class="portfolio_button">
+                                        <h3>Project Title</h3>
+                                        <a href=".work1" class="open_popup" data-effect="mfp-zoom-out">
+                                            <i class="hovicon effect-9 sub-b"><i class="fa fa-search"></i></i>
+                                        </a>
+                                    </div>
+                                    <div class="mfp-hide mfp-with-anim work_desc work1">
+                                        <div class="col-md-6">
+                                            <div class="image_work">
+                                                <img src="http://placehold.it/560x420" alt="img" width="560" height="420">
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <div class="project_content">
+                                                <h2 class="project_title">Project title</h2>
+                                                <p class="project_desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce a auctor sem. Suspendisse egestas nulla eget nunc commodo, et blandit ante tristique. Aliquam dignissim nulla tellus, sed pellentesque libero pellentesque et. Donec nec sem mattis, suscipit ligula id, porttitor tortor. Maecenas sed egestas odio, vitae euismod nulla. Duis viverra blandit mi quis rhoncus. Aenean vitae turpis et tortor elementum blandit.
+                                                    <br>
+                                                    <br>dignissim nulla tellus, sed pellentesque libero pellentesque et. Donec nec sem mattis, suscipit ligula id, porttitor tortor. Maecenas sed egestas odio, vitae euismod nulla. Duis viverra blandit mi quis rhoncus. Aenean vitae turpis et tortor elementum blandit.</p>
+                                            </div>
+                                        </div>
+                                        <a class="ext_link" href="#"><i class="fa fa-external-link"></i></a>
+                                        <div style="clear:both"></div>
+                                    </div>
+                                </figcaption>
+                            </figure>
+                            <!-- End Portfolio Item -->
+
+                            <!-- Portfolio Item -->
+                            <figure class="effect-milo">
+                                <img src="images/portfolio/2-thumb.jpg" alt="img11" width="282" height="222" />
+                                <figcaption>
+                                    <span class="label">web design</span>
+                                    <div class="portfolio_button">
+                                        <h3>Project Title</h3>
+                                        <a href=".work2" class="open_popup" data-effect="mfp-zoom-out">
+                                            <i class="hovicon effect-9 sub-b"><i class="fa fa-search"></i></i>
+                                        </a>
+                                    </div>
+                                    <div class="mfp-hide mfp-with-anim work_desc work2">
+                                        <div class="col-md-6">
+                                            <div class="image_work">
+                                                <img src="http://placehold.it/560x420" alt="img" width="560" height="420">
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <div class="project_content">
+                                                <h2 class="project_title">Project title</h2>
+                                                <p class="project_desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce a auctor sem. Suspendisse egestas nulla eget nunc commodo, et blandit ante tristique. Aliquam dignissim nulla tellus, sed pellentesque libero pellentesque et. Donec nec sem mattis, suscipit ligula id, porttitor tortor. Maecenas sed egestas odio, vitae euismod nulla. Duis viverra blandit mi quis rhoncus. Aenean vitae turpis et tortor elementum blandit.
+                                                    <br>
+                                                    <br>dignissim nulla tellus, sed pellentesque libero pellentesque et. Donec nec sem mattis, suscipit ligula id, porttitor tortor. Maecenas sed egestas odio, vitae euismod nulla. Duis viverra blandit mi quis rhoncus. Aenean vitae turpis et tortor elementum blandit.</p>
+                                            </div>
+                                        </div>
+                                        <a class="ext_link" href="#"><i class="fa fa-external-link"></i></a>
+                                        <div style="clear:both"></div>
+                                    </div>
+                                </figcaption>
+                            </figure>
+                            <!-- End Portfolio Item -->
+
+                            <!-- Portfolio Item -->
+                            <figure class="effect-milo">
+                                <img src="images/portfolio/3-thumb.jpg" alt="img11" width="282" height="222" />
+                                <figcaption>
+                                    <span class="label">Mobile app</span>
+                                    <div class="portfolio_button">
+                                        <h3>Project Title</h3>
+                                        <a href=".work3" class="open_popup" data-effect="mfp-zoom-out">
+                                            <i class="hovicon effect-9 sub-b"><i class="fa fa-search"></i></i>
+                                        </a>
+                                    </div>
+                                    <div class="mfp-hide mfp-with-anim work_desc work3">
+                                        <div class="col-md-6">
+                                            <div class="image_work">
+                                                <img src="http://placehold.it/560x420" alt="img" width="560" height="420">
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <div class="project_content">
+                                                <h2 class="project_title">Project title</h2>
+                                                <p class="project_desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce a auctor sem. Suspendisse egestas nulla eget nunc commodo, et blandit ante tristique. Aliquam dignissim nulla tellus, sed pellentesque libero pellentesque et. Donec nec sem mattis, suscipit ligula id, porttitor tortor. Maecenas sed egestas odio, vitae euismod nulla. Duis viverra blandit mi quis rhoncus. Aenean vitae turpis et tortor elementum blandit.
+                                                    <br>
+                                                    <br>dignissim nulla tellus, sed pellentesque libero pellentesque et. Donec nec sem mattis, suscipit ligula id, porttitor tortor. Maecenas sed egestas odio, vitae euismod nulla. Duis viverra blandit mi quis rhoncus. Aenean vitae turpis et tortor elementum blandit.</p>
+
+                                            </div>
+                                        </div>
+                                        <a class="ext_link" href="#"><i class="fa fa-external-link"></i></a>
+                                        <div style="clear:both"></div>
+                                    </div>
+                                </figcaption>
+                            </figure>
+                            <!-- End Portfolio Item -->
+
+                            <!-- Portfolio Item -->
+                            <figure class="effect-milo">
+                                <img src="images/portfolio/4-thumb.jpg" alt="img11" width="282" height="222" />
+                                <figcaption>
+                                    <span class="label">web design</span>
+                                    <div class="portfolio_button">
+                                        <h3>Project Title</h3>
+                                        <a href=".work4" class="open_popup" data-effect="mfp-zoom-out">
+                                            <i class="hovicon effect-9 sub-b"><i class="fa fa-search"></i></i>
+                                        </a>
+                                    </div>
+                                    <div class="mfp-hide mfp-with-anim work_desc work4">
+                                        <div class="col-md-6">
+                                            <div class="image_work">
+                                                <img src="http://placehold.it/560x420" alt="img" width="560" height="420">
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <div class="project_content">
+                                                <h2 class="project_title">Project title</h2>
+                                                <p class="project_desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce a auctor sem. Suspendisse egestas nulla eget nunc commodo, et blandit ante tristique. Aliquam dignissim nulla tellus, sed pellentesque libero pellentesque et. Donec nec sem mattis, suscipit ligula id, porttitor tortor. Maecenas sed egestas odio, vitae euismod nulla. Duis viverra blandit mi quis rhoncus. Aenean vitae turpis et tortor elementum blandit.
+                                                    <br>
+                                                    <br>dignissim nulla tellus, sed pellentesque libero pellentesque et. Donec nec sem mattis, suscipit ligula id, porttitor tortor. Maecenas sed egestas odio, vitae euismod nulla. Duis viverra blandit mi quis rhoncus. Aenean vitae turpis et tortor elementum blandit.</p>
+                                            </div>
+                                        </div>
+                                        <a class="ext_link" href="#"><i class="fa fa-external-link"></i></a>
+                                        <div style="clear:both"></div>
+                                    </div>
+                                </figcaption>
+                            </figure>
+                            <!-- End Portfolio Item -->
+
+                            <!-- Portfolio Item -->
+                            <figure class="effect-milo">
+                                <img src="images/portfolio/5-thumb.jpg" alt="img11" width="282" height="222" />
+                                <figcaption>
+                                    <span class="label">Mobile app</span>
+                                    <div class="portfolio_button">
+                                        <h3>Project Title</h3>
+                                        <a href=".work5" class="open_popup" data-effect="mfp-zoom-out">
+                                            <i class="hovicon effect-9 sub-b"><i class="fa fa-search"></i></i>
+                                        </a>
+                                    </div>
+                                    <div class="mfp-hide mfp-with-anim work_desc work5">
+                                        <div class="col-md-6">
+                                            <div class="image_work">
+                                                <img src="http://placehold.it/560x420" alt="img" width="560" height="420">
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <div class="project_content">
+                                                <h2 class="project_title">Project title</h2>
+                                                <p class="project_desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce a auctor sem. Suspendisse egestas nulla eget nunc commodo, et blandit ante tristique. Aliquam dignissim nulla tellus, sed pellentesque libero pellentesque et. Donec nec sem mattis, suscipit ligula id, porttitor tortor. Maecenas sed egestas odio, vitae euismod nulla. Duis viverra blandit mi quis rhoncus. Aenean vitae turpis et tortor elementum blandit.
+                                                    <br>
+                                                    <br>dignissim nulla tellus, sed pellentesque libero pellentesque et. Donec nec sem mattis, suscipit ligula id, porttitor tortor. Maecenas sed egestas odio, vitae euismod nulla. Duis viverra blandit mi quis rhoncus. Aenean vitae turpis et tortor elementum blandit.</p>
+                                            </div>
+                                        </div>
+                                        <a class="ext_link" href="#"><i class="fa fa-external-link"></i></a>
+                                        <div style="clear:both"></div>
+                                    </div>
+                                </figcaption>
+                            </figure>
+                            <!-- End Portfolio Item -->
+
+                            <!-- Portfolio Item -->
+                            <figure class="effect-milo">
+                                <img src="images/portfolio/6-thumb.jpg" alt="img11" width="282" height="222" />
+                                <figcaption>
+                                    <span class="label">Logo Design</span>
+                                    <div class="portfolio_button">
+                                        <h3>Project Title</h3>
+                                        <a href=".work6" class="open_popup" data-effect="mfp-zoom-out">
+                                            <i class="hovicon effect-9 sub-b"><i class="fa fa-search"></i></i>
+                                        </a>
+                                    </div>
+                                    <div class="mfp-hide mfp-with-anim work_desc work6">
+                                        <div class="col-md-6">
+                                            <div class="image_work">
+                                                <img src="http://placehold.it/560x420" alt="img" width="560" height="420">
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <div class="project_content">
+                                                <h2 class="project_title">Project title</h2>
+                                                <p class="project_desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce a auctor sem. Suspendisse egestas nulla eget nunc commodo, et blandit ante tristique. Aliquam dignissim nulla tellus, sed pellentesque libero pellentesque et. Donec nec sem mattis, suscipit ligula id, porttitor tortor. Maecenas sed egestas odio, vitae euismod nulla. Duis viverra blandit mi quis rhoncus. Aenean vitae turpis et tortor elementum blandit.
+                                                    <br>
+                                                    <br>dignissim nulla tellus, sed pellentesque libero pellentesque et. Donec nec sem mattis, suscipit ligula id, porttitor tortor. Maecenas sed egestas odio, vitae euismod nulla. Duis viverra blandit mi quis rhoncus. Aenean vitae turpis et tortor elementum blandit.</p>
+                                            </div>
+                                        </div>
+                                        <a class="ext_link" href="#"><i class="fa fa-external-link"></i></a>
+                                        <div style="clear:both"></div>
+                                    </div>
+                                </figcaption>
+                            </figure>
+                            <!-- End Portfolio Item -->
+                        </div>
+                        <!-- End Portfolio Wrapper -->
+                    </div>
+                </article>

@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>CrowdMap - Discussion</title>
+<link rel="icon" href="images/favicon.gif" type="image/x-icon"/>
+ <!--[if lt IE 9]>
+ <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+<link rel="shortcut icon" href="images/favicon.gif" type="image/x-icon"/> 
+<link rel="stylesheet" type="text/css" href="css/styles.css"/>
+</head>
+<body>
+   <div class="bg">
+    <!--start container-->
+    <div id="container">
+    <!--start header-->
+    <header>
+      <!--start logo-->
+      <a href="#" id="logo"><h1>CrowdMap</h1></a>
+      <!--end logo-->
+      <!--start menu-->
+  	   <nav>
+         <ul>
+         <li><a href="index.html" class="current">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="results.html">Experiments</a></li>
+        <li><a href="links.html">Links</a></li>
+        <!--li><a href="form.html">Forms</a></li-->
+        <li><a href="discussion.html">Discussion</a></li>
+        <li><a href="contacts.html">Contact</a></li>
+         </ul>
+      </nav>
+  	   <!--end menu-->
+      <!--end header-->
+	</header>
+	<div class="holder_content">
+    <p>
+      We have implemented a crowdsourcing application that can provide details regarding road condition and bus route characteristics for better planning and comfortable ride. We leverage on the capabilities of the on-device inertial sensors and use GPS opportunistically to build the travel trajectory and annotate the same on real map with additional bus route characteristics features. However, following are some factors, which can potentially influence the performance and applicability of the system that we tackle during the development process.
+    </p>
+    <ul id="ul1">
+      <li>
+        <b>Orientation Issue:</b>
+        <p>In a global axis space, we assume that the bus moves in the Y-axis, with other axes accordingly oriented. However the orientation of the smart-phone and that of the bus may not be in sync. We resolve this problem by taking the components of gravity into consideration. We observed that, whatever be the orientation, the axis which has the component of gravity in the acceleration value, has a mean value close to the “acceleration due to gravity” (usually around 9.5m/s 2 ). Considering this observation, we decide the Z-axis from the acceleration data of the user traces.</p>
+      </li>
+      <li>
+        <b>User Incentive:</b>
+        <p>CrowdMap application gives users the benefit of easily finding out the bus routes and bus stops in a city of a developing country like India, which is otherwise almost impossible to figure out for a new commuter. Additionally, it provides a number of value added services like the nature of the buses on a specific route as well as the nature of the route, alongwith a comfort level for traveling in that route. As a consequence, the CrowdMap app provides an interface to figure out an alternate bus route, which is likely to be more comfortable for travel, although within the time budget of the commuter. Nevertheless, building such an application requires significant amount of ground truth data which is the major challenge for CrowdMap development process, that we solve through crowd-sourcing.</p>
+      </li>
+      <li>
+        <b>Privacy Issues:</b>
+        <p>In order to counter the privacy issue, as we are collecting GPS data (no continuous logging after first month), we do not record any user identity to trace location details for any particular user and also take user permission before collecting the data. However, we are in the process of developing a privacy-preserving data collection method as a next step towards this direction</p>
+      </li>
+      <li>
+        <b>Increasing Application’s Usabilit:</b>
+        <p>In order to increase the applicability of CrowdMap for scenarios, where Google transit information is not available, one possibility would be to develop public transport recommender system on top of it. However, as the recommendation may focus on different aspects like travel time, cost and comfort it is necessary to explore some aspects before implementing a fully operational recommender system. Another type of application like UrbanEye<a href="http://www.cnergres.iitkgp.ac.in/urbaneye/" target="_blank"><sup>[1]</sup></a> which provides alerts to user on her travel route can also use the services offered by CrowdMap and provide more accurate information.</p>
+      </li>
+    </ul>
+	</div>
+   
+</html>

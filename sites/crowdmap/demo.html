@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>UrbanEye - Demo</title>
+<link rel="icon" href="images/favicon.gif" type="image/x-icon"/>
+ <!--[if lt IE 9]>
+ <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+<link rel="shortcut icon" href="images/favicon.gif" type="image/x-icon"/> 
+<link rel="stylesheet" type="text/css" href="css/styles.css"/>
+</head>
+<body>
+   <div class="bg">
+    <!--start container-->
+    <div id="container">
+    <!--start header-->
+    <header>
+      <!--start logo-->
+      <a href="#" id="logo"><h1>CrowdMap</h1></a>
+      <!--end logo-->
+      <!--start menu-->
+  	   <nav>
+         <ul>
+         <li><a href="index.html" class="current">Home</a></li>
+         <li><a href="about.html">About</a></li>
+       	 <li><a href="results.html">Results</a></li>
+         <li><a href="links.html">Links</a></li>
+         <li><a href="form.html">Forms</a></li>
+         <li><a href="discussion.html">Discussion</a></li>
+         <li><a href="#">Contact</a></li>
+         </ul>
+      </nav>
+  	   <!--end menu-->
+      <!--end header-->
+	</header>
+	<div class="holder_content">	
+    <h3>Technical Challenges</h3>
+    <ul id="ul1">
+      <li>
+        <b>Orientation Issue:</b>
+        <p>In a global axis space, we assume that the bus moves in the Y-axis, with other axes accordingly oriented. However the orientation of the smart-phone and that of the bus may not be in sync. We resolve this problem by taking the components of gravity into consideration. We observed that, whatever be the orientation, the axis which has the component of gravity in the acceleration value, has a mean value close to the “acceleration due to gravity” (usually around 9.5m/s 2 ). Considering this observation, we decide the Z-axis from the acceleration data of the user traces.</p>
+      </li>
+    </ul>
+	</div>
+   
+</html>
