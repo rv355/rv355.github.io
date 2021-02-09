@@ -3399,6 +3399,19 @@ screen and (max-height: 300px) {
 .colors-list a.orange {
     background-color: #EC6F69;
 }
+
+.buttonresume {
+    background-color: #444446;
+    border: none;
+    color: white;
+    padding: 4px 6px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
 /*--------------------------------------------------
 ------------------ Media Queries  ------------------
 ---------------------------------------------------*/
